@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/vy4ww2bp45r7/public_html/all_projects/
+    # - /bin/rsync -rv --exclude=.git --exclude=.idea * $DEPLOYPATH
